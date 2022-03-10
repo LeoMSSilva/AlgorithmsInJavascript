@@ -13,11 +13,11 @@
 
 # :pushpin: Table of Contents
 
-- :house: [About](#about)
-- :dart: [Installation](#Installation)
-- :computer: [Techs](#Techs)
-- :bust_in_silhouette: [Author](#Author)
-- :handshake: [Contributing](#Contributing)
+- :house: [About](#house-about)
+- :dart: [Installation](#dart-installation)
+- :computer: [Techs](#computer-techs)
+- :bust_in_silhouette: [Author](#bust_in_silhouette-author)
+- :handshake: [Contributing](#handshake-contributing)
 
 ---
 
