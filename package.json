@@ -1,0 +1,23 @@
+{
+	"name": "algorithmsInJavascript",
+	"version": "1.0.0",
+	"description": "JavaScript algorithms for programming logic studies",
+	"author": "LeoMSSilva",
+	"main": "index.js",
+	"license": "MIT",
+	"type": "module",
+	"scripts": {
+		"convertToFahrenheit": "node ./src/convertToFahrenheit/convertToFahrenheit.js",
+		"evenNumbersUpToOneHundred": "node ./src/evenNumbersUpToOneHundred/evenNumbersUpToOneHundred.js",
+		"fizzbuzz": "node ./src/fizzbuzz/fizzbuzz.js",
+		"reverseString": "node ./src/reverseString/reverseString.js",
+		"schoolSituation": "node ./src/schoolSituation/schoolSituation.js"
+	},
+	"dependencies": {
+		"readline-sync": "^1.4.10"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.17.5",
+		"@babel/preset-env": "^7.16.11"
+	}
+}
